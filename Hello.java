@@ -15,6 +15,7 @@ public class Hello {
 	print("Lock S-foils in attack position.");
 	System.out.println("Stabilize...");
 	System.out.println("more printing");
+	print("what?");
     }
     
     public static void goldLeader() {
@@ -29,6 +30,7 @@ public class Hello {
         // Red Leader should add a print statement that says "I copy, gold leader!"
         
 		print("I copy, gold leader!")
+		print("Yes!");
     }
 
 }
