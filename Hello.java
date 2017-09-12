@@ -14,6 +14,7 @@ public class Hello {
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 	print("Lock S-foils in attack position.");
 	System.out.println("Stabilize...");
+	System.out.println("more printing");
     }
     
     public static void goldLeader() {
