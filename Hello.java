@@ -12,7 +12,7 @@ public class Hello {
         
         // Red Leader should add a print statement that says "Lock S-foils in attack position." 
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
-
+		print("Lock S-foils in attack position.")
     }
 
     public static void goldLeader() {
@@ -26,7 +26,7 @@ public class Hello {
  
         // Red Leader should add a print statement that says "I copy, gold leader!"
         
-
+		print("I copy, gold leader!")
     }
 
 }
